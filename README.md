@@ -1,4 +1,4 @@
-# JavaScript IV
+# JavaScript IV--Brittney-Thomas
 
 This challenge focuses on classes in JavaScript using the new `class` keyword.
 
